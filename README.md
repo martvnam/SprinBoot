@@ -1,1 +1,1 @@
-# SprinBoot
+# SpringBoot
